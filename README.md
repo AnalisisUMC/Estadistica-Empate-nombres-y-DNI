@@ -35,4 +35,4 @@ Output/Salida: archivo Excel (.xlsx) con 16 columnas
 - DRE_2 = codigo DRE en base de datos 2
 - nom_comp1 = apellidos y nombres en base de datos 1
 - nom_comp2 = apellidos y nombres en base de datos 2
-- Filtro = indicativo de que son el mismo estudiante (1=si, 2=no)
+- Filtro = indicativo de que son el mismo estudiante (1=si, 0=no)
