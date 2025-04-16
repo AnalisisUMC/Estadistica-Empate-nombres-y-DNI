@@ -1,5 +1,6 @@
 rm(list=ls())
 
+library(tidyverse)
 library(rio)
 
 setwd('D:/pedido Luis descubrir como funciona RIO en diferentes BD/cambiar script empate')
